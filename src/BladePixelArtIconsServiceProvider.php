@@ -19,7 +19,6 @@ final class BladePixelArtIconsServiceProvider extends ServiceProvider
 
             $factory->add('pixelarticons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
