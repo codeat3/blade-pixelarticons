@@ -7,6 +7,7 @@ $svgNormalization = static function (string $tempFilepath, array $iconSet) {
     // perform generic optimizations
     $iconProcessor = new IconProcessor($tempFilepath, $iconSet);
     $iconProcessor
+        ->optimize()
         ->save();
 };
 
