@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-pixelarticons/compare/1.4.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-pixelarticons/compare/1.5.0...HEAD)
+
+## [1.5.0](https://github.com/codeat3/blade-pixelarticons/compare/1.4.0...1.5.0) - 2024-02-29
+
+### What's Changed
+
+* laravel 11 support by @swapnilsarwe in https://github.com/codeat3/blade-pixelarticons/pull/11
+
+**Full Changelog**: https://github.com/codeat3/blade-pixelarticons/compare/1.4.0...1.5.0
 
 ## [1.4.0](https://github.com/codeat3/blade-pixelarticons/compare/1.3.0...1.4.0) - 2023-02-21
 
